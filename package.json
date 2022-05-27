@@ -2,7 +2,7 @@
   "name": "react_demmo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://devil-works.github.io/react_demo",
+  "homepage": "https://devil-works.github.io/react_demmo/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
